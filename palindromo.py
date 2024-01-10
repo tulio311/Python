@@ -1,3 +1,5 @@
+# This code takes in a word from stdin and tells if the word is a palindrome (palindromo) or not.
+
 def palindromo(palabra):
     palabra = palabra.replace(' ','')
     print(palabra)
