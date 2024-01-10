@@ -1,3 +1,7 @@
+# This code takes in an integer from stdin and tells if the number is a prime (primo) or not. It uses
+# the theorem that says that a number is a prime if and only if it has a divisor lesser or equal
+# than its square root.
+
 import math
 
 def run():
